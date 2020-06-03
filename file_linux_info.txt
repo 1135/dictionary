@@ -1,3 +1,5 @@
+/var/lib/mlocate/mlocate.db
+/proc/self/cmdline
 /etc/passwd
 /etc/shadow
 /etc/aliases
