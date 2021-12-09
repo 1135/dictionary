@@ -1,5 +1,4 @@
 /var/lib/mlocate/mlocate.db
-/proc/self/cmdline
 /etc/passwd
 /etc/shadow
 /etc/aliases
@@ -257,4 +256,5 @@
 ~/.xinitrc
 ~/.Xresources
 ~/.xsession
-/proc/<int>/fd/<int> #e.g. /proc/2116/fd/11
+/proc/<pid_int>/fd/<int> #e.g. /proc/2116/fd/11
+/proc/<[pid_int>/cmdline #e.g. /proc/2116/cmdline
